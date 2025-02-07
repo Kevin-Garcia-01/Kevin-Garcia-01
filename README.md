@@ -1,5 +1,4 @@
-¡Hola! 👋 Soy Kevin, ingeniero automático y programador apasionado por el desarrollo web 🌐. 
-Aquí en mi perfil de GitHub, encontrarás proyectos en los que he trabajado, los que reflejan mi compromiso con el aprendizaje continuo y la mejora constante 🚀. No dudes en conectar conmigo. ¡Espero que disfrutes explorando mis repositorios! ✌️
+Hello! 👋 I'm Kevin, an automation engineer and programmer passionate about web development 🌐. Here on my GitHub profile, you’ll find projects I’ve worked on, which reflect my commitment to continuous learning and constant improvement 🚀. Feel free to connect with me—I hope you enjoy exploring my repositories! ✌️
 
 <!--
 **Kevin-Garcia-01/Kevin-Garcia-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
