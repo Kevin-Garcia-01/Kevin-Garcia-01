@@ -1,4 +1,5 @@
-## Hi there 👋
+¡Hola! 👋 Soy Kevin, ingeniero automático y programador apasionado por el desarrollo web 🌐. 
+Aquí en mi perfil de GitHub, encontrarás proyectos en los que he trabajado, los que reflejan mi compromiso con el aprendizaje continuo y la mejora constante 🚀. No dudes en conectar conmigo. ¡Espero que disfrutes explorando mis repositorios! ✌️
 
 <!--
 **Kevin-Garcia-01/Kevin-Garcia-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
