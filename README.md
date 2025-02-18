@@ -16,12 +16,8 @@
 
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/Kevin-Garcia-01" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=Kevin-Garcia-01&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
-  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
+  
