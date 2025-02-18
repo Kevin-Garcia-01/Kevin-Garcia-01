@@ -8,6 +8,8 @@
 <br>
 Here on my GitHub profile, you’ll find projects I’ve worked on, which reflect my commitment to continuous learning and constant improvement 🚀. Feel free to connect with me—I hope you enjoy exploring my repositories! ✌️
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 <!--
 **Kevin-Garcia-01/Kevin-Garcia-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
