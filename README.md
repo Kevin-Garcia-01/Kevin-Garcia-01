@@ -11,9 +11,9 @@
   <h2> CONECT WITH ME</h2>
 <!--icons and links-->
 <p align="left">
-<a href="https://www.linkedin.com/in/kevin-garcia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="instagram" height="60" width="60" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" alt="Whatsapp" height="60" width="60"></a>
+  <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" alt="Whatsapp" height="60"            width="60"></a>
+  <a href="https://www.linkedin.com/in/kevin-garcia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" /></a>
+  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="instagram" height="60" width="60" /></a>
 </p>
 </a>
 
