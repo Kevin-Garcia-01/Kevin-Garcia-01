@@ -5,8 +5,9 @@
 <br>
 
 <a target="_blank" align="center">
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B5d3Njc3JnejNkdWZpMm9zNDhjdmlvajFvODZ5bm80amVua3p4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="400">
-<p align="left">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B5d3Njc3JnejNkdWZpMm9zNDhjdmlvajFvODZ5bm80amVua3p4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="350" >
+
+  <p align="left">
   <h2> CONECT WITH ME</h2>
 <!--icons and links-->
 <p align="center">
