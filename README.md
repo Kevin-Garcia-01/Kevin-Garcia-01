@@ -5,7 +5,7 @@
 <br>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; gap: 20px;">
-  <div>
+  <div align="left">
     <p>
       Here on my GitHub profile, you’ll find projects I’ve worked on, which reflect my commitment to continuous learning and constant improvement 🚀. Feel free to connect with me—I hope you enjoy exploring my repositories! ✌️
     </p>
