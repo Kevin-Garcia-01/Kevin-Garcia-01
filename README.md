@@ -9,9 +9,6 @@
 Here on my GitHub profile, you’ll find projects I’ve worked on, which reflect my commitment to continuous learning and constant improvement 🚀. Feel free to connect with me—I hope you enjoy exploring my repositories! ✌️
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kevin-Garcia-01&label=Profile%20views&color=0e75b6&style=flat" alt="Kevin-Garcia-01" />
-</p>
 
 
 <!--
