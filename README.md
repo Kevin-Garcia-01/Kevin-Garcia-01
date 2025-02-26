@@ -8,7 +8,7 @@
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B5d3Njc3JnejNkdWZpMm9zNDhjdmlvajFvODZ5bm80amVua3p4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="350" >
 
   <p align="left">
-  <h2> CONECT WITH ME</h2>
+  <h2> CONNECT WITH ME</h2>
 <!--icons and links-->
 <p align="left">
   <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" alt="Whatsapp" height="60"            width="60"></a>
