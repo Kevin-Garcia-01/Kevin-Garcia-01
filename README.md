@@ -6,15 +6,6 @@
 
 <a target="_blank" align="center">
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B5d3Njc3JnejNkdWZpMm9zNDhjdmlvajFvODZ5bm80amVua3p4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="350" >
-
-  <p align="left">
-  <h2> CONNECT WITH ME</h2>
-<!--icons and links-->
-<p align="left">
-  <a href="https://wa.me/message/Q2HJ7XXHPFYCL1" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000" alt="Whatsapp" height="60"            width="60"></a>
-  <a href="https://www.linkedin.com/in/kevin-garcia" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="45" width="45" /></a>
-  <a href="https://www.instagram.com/kgarcia_dev" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="instagram" height="60" width="60" /></a>
-</p>
 </a>
 
 <h5>Here on my GitHub profile, you’ll find projects I’ve worked on, which reflect my commitment to continuous learning and constant improvement 🚀. Feel free to connect with me—I hope you enjoy exploring my repositories! ✌️
